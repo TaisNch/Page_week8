@@ -1,0 +1,61 @@
+   .header-top {
+    display: flex; 
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    }
+    .button-cart {
+      width: 115px;
+      height: 38px;
+      border-radius: 100px;
+      background: var(--unnamed, #5222d0);
+    }
+    .navigation {
+      display: flex;
+      justify-content: flex-start;
+    }
+    .navigation-menu {
+      padding: 10px;
+      color: #5222d0;
+      font-family: Roboto Slab;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 300;
+      line-height: 160%;
+    }
+    .button-buy {
+      background: var(--unnamed, #5222d0);
+      width: 270px;
+      height: 84px;
+      border-radius: 20%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .btn-buy-txt {
+      color: var(--unnamed, #fff);
+      font-family: Intro;
+      font-size: 35px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      padding: 5%;
+    }
+    .btn-buy-ico {
+      width: 41.724px;
+      height: 28.743px;
+    }
+    .first-page-prw {
+    display: flex;
+}
+    
+.card-img-ctm1 {
+    background-image: url(../images/Rectangle31.png);
+}
+.card-img-ctm2 {
+    background-image: url(../images/Rectangle21.png);
+}
+.card-img-ctm3 {
+    background-image: url(../images/Rectangle11.png);
+}
+
